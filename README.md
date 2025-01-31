@@ -2,6 +2,7 @@
 
 ### 📝 Project Context
 The stock market is highly dynamic, and predicting stock prices is a challenging yet crucial task for investors and financial analysts. This project focuses on predicting the stock prices of top MNS (Microsoft, Nvidia, Google, Amazon, Apple, Netflix, Meta) companies using machine learning models. It utilizes historical stock data from 2015 to 2025 to make predictions and provide valuable insights.
+
 To make it accessible, we have built a simple Flask-based web application where users can input a company name and past days, and the system will predict the stock price accordingly. Additionally, we aim to integrate Generative AI to offer stock market insights.
 
 ### 🎯 Project Objective

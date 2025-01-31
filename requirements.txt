@@ -10,3 +10,5 @@ scikit-learn
 tensorflow
 keras
 python-dotenv
+statsmodels
+nbformat
