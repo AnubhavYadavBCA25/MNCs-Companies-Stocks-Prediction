@@ -53,6 +53,6 @@ To make it accessible, we have built a simple Flask-based web application where 
 📌 For Combined Stocks:
 - Comparative interactive line plots for all companies.
 <p align='center'>
-    <img src="resouces/close_price_line_plot.png" width="1200" height="450">
+    <img src="resources/close_price_line_plot.png" width="1200" height="450">
 </p>
 - Static seaborn/matplotlib plots for correlations and distributions.
