@@ -1,6 +1,14 @@
 # MNCs Companies Stocks Prediction
 
-![Amazon](resources/amazon.png) ![Microsoft](resources/microsoft.png) ![Nvidia](resources/nvidia.png) ![Google](resources/google.png) ![Apple](resources/apple.png) ![Netflix](resources/netflix.png) ![Meta](resources/meta.png)
+<p align="center">
+  <img src="resources/amazon.png" width="80">
+  <img src="resources/microsoft.png" width="80">
+  <img src="resources/nvidia.png" width="80">
+  <img src="resources/google.png" width="80">
+  <img src="resources/apple.png" width="80">
+  <img src="resources/netflix.png" width="80">
+  <img src="resources/meta.png" width="80">
+</p>
 
 ### 📝 Project Context
 The stock market is highly dynamic, and predicting stock prices is a challenging yet crucial task for investors and financial analysts. This project focuses on predicting the stock prices of top MNS (Microsoft, Nvidia, Google, Amazon, Apple, Netflix, Meta) companies using machine learning models. It utilizes historical stock data from 2015 to 2025 to make predictions and provide valuable insights.
