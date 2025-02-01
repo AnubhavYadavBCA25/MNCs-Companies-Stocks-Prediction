@@ -47,12 +47,27 @@ To make it accessible, we have built a simple Flask-based web application where 
 #### 2️⃣ Data Visualizations
 📌 For Individual Stocks:
 - Time series plots for Close, Volume, High, Low prices.
+<p align='center'>
+    <img src="resources/nvidia_close.png" width="1009" height="552">
+</p>
+
 - Trend analysis using moving averages.
+<p align='center'>
+    <img src="resources/nvidia_macd.png" width="1184" height="450">
+</p>
+
 - Distribution plots for price fluctuations.
+<p align='center'>
+    <img src="resources/nvidia_hist.png" width="854" height="475">
+</p>
 
 📌 For Combined Stocks:
 - Comparative interactive line plots for all companies.
 <p align='center'>
     <img src="resources/close_price_line_plot.png" width="1200" height="450">
 </p>
+
 - Static seaborn/matplotlib plots for correlations and distributions.
+<p align='center'>
+    <img src="resources/moving_avg.png" width="1009" height="552">
+</p>
