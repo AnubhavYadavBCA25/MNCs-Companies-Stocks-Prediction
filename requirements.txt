@@ -12,3 +12,5 @@ keras
 python-dotenv
 statsmodels
 nbformat
+xgboost
+torch
